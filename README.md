@@ -1,4 +1,4 @@
-## Ahmed Fitness - Static Gym Web Page
+## Gym Web Page
 A clean and responsive static web page for a fictional gym called Ahmed Fitness, created using HTML and CSS only. This project showcases a landing page with a navigation bar, promotional text and a form to collect user information.
 
 # Features
